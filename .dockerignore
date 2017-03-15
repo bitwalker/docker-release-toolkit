@@ -1,0 +1,8 @@
+_build
+deps
+apps
+lib
+src
+priv
+web
+rel
