@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM bitwalker/alpine-erlang
 
 ARG APP
 
